@@ -6,13 +6,8 @@
 .idea
 *.iml
 out
-gen### Example user template template
-### Example user template
+src/test
 
-# IntelliJ project files
-.idea
-*.iml
-out
 gen### Java template
 # Compiled class file
 *.class
