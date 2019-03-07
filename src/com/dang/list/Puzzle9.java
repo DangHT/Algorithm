@@ -10,7 +10,7 @@ package com.dang.list;
  */
 public class Puzzle9 {
 
-    private static ListNode<Integer> solution(ListNode<Integer> list){
+    protected static ListNode<Integer> solution(ListNode<Integer> list){
         if (list == null || list.next == null) return null;
         ListNode<Integer> fast = list, slow = list;
         while (true){

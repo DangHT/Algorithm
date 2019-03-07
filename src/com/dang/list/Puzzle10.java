@@ -10,15 +10,15 @@ package com.dang.list;
  */
 public class Puzzle10 {
 
-    private static ListNode<Integer> solution(ListNode<Integer> list1, ListNode<Integer> list2){
+    protected static ListNode<Integer> solution(ListNode<Integer> list1, ListNode<Integer> list2, ListNode<Integer> end){
         if (list1 == null || list2 == null) return null;
         int len1 = 0, len2 = 0, count = 0, len3;
         ListNode<Integer> temp1 = list1, temp2 = list2;
-        while (temp1 != null){
+        while (temp1 != end){
             len1++;
             temp1 = temp1.next;
         }
-        while (temp2 != null){
+        while (temp2 != end){
             len2++;
             temp2 = temp2.next;
         }
@@ -26,7 +26,7 @@ public class Puzzle10 {
         temp2 = list2;
         len3 = len1 - len2;
         if (len3 > 0){
-            while (temp1 != temp2 && temp1 != null && temp2 != null){
+            while (temp1 != temp2 && temp1 != end && temp2 != end){
                 if (count >= len3){
                     temp2 = temp2.next;
                 }
@@ -34,7 +34,7 @@ public class Puzzle10 {
                 temp1 = temp1.next;
             }
         } else {
-            while (temp1 != temp2 && temp1 != null && temp2 != null){
+            while (temp1 != temp2 && temp1 != end && temp2 != end){
                 if (count <= len3){
                     temp1 = temp1.next;
                 }
@@ -56,7 +56,7 @@ public class Puzzle10 {
         list2.next.next = new ListNode<>(1);
         list2.next.next.next = new ListNode<>(2);
         list2.next.next.next.next = list1.next.next;
-        System.out.println(solution(list1, list2).val);
+        System.out.println(solution(list1, list2, null).val);
     }
 
 }
