@@ -10,7 +10,7 @@ package com.dang.list;
  */
 public class Puzzle11 {
 
-    private static ListNode<Integer> solution(ListNode<Integer> list1, ListNode<Integer> list2){
+    protected static ListNode<Integer> solution(ListNode<Integer> list1, ListNode<Integer> list2){
         if (list1 == null || list2 == null) return null;
         //找到两个链表各自的入环节点,
         ListNode<Integer> list1LoopHead = Puzzle9.solution(list1);
