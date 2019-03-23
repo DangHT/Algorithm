@@ -12,32 +12,32 @@
 
 ## 事物
 
-![](C:\Users\Dang\Desktop\截图\UML事物.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML事物.jpg)
 
 ## 关系
 
-![](C:\Users\Dang\Desktop\截图\UML关系.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML关系.jpg)
 
 ## 图
 
-![](C:\Users\Dang\Desktop\截图\UML图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML图.jpg)
 
 ### 用例图
 
-![](C:\Users\Dang\Desktop\截图\UML用例图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML用例图.jpg)
 
 ### 类图
 
-![](C:\Users\Dang\Desktop\截图\UML类图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML类图.jpg)
 
 ### 对象图
 
-![](C:\Users\Dang\Desktop\截图\UML对象图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML对象图.jpg)
 
 ### 活动图
 
-![](C:\Users\Dang\Desktop\截图\UML活动图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML活动图.jpg)
 
 ### 状态图
 
-![](C:\Users\Dang\Desktop\截图\UML状态图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML状态图.jpg)
