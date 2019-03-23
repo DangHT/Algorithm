@@ -12,32 +12,32 @@
 
 ## 事物
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML事物.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLobject.jpg)
 
 ## 关系
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML关系.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLrelation.jpg)
 
 ## 图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLgraphic.jpg)
 
 ### 用例图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML用例图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLinstanceGraph.jpg)
 
 ### 类图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML类图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLclassGraph.jpg)
 
 ### 对象图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML对象图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLobjGraph.jpg)
 
 ### 活动图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML活动图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLactGraph.jpg)
 
 ### 状态图
 
-![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UML状态图.jpg)
+![](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/SE975/notes/pictures/UMLstateGraph.jpg)
