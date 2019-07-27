@@ -9,12 +9,13 @@
 - 等等...（不定时更新中:wink:）
 
 ## 快捷导航
-- [x] [西工大2017年机试题解](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/y2017)
-- [x] [西工大2018年机试题解](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/nwpu/y2018)
-- [x] [KMP算法](https://github.com/WhataNerb/Algorithm/blob/master/src/com/dang/string/KMP.java)
-- [x] [各种排序算法](https://github.com/WhataNerb/Algorithm/blob/master/src/com/dang/Sort.java)
-- [x] [二叉树遍历递归及非递归实现](https://github.com/WhataNerb/Algorithm/blob/master/src/com/dang/binarytree/Traversal.java)
-- [x] [字符串相关面试题](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/string)
-- [x] [栈与队列相关面试题](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/stackandqueue)
-- [x] [链表相关面试题](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/list)
-- [x] [二分搜索相关面试题](https://github.com/WhataNerb/Algorithm/tree/master/src/com/dang/binarysearch)
+- [x] [西工大2017年机试题解](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/nwpu/y2017)
+- [x] [西工大2018年机试题解](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/nwpu/y2018)
+- [x] [KMP算法](https://github.com/DangHT/Algorithm/blob/master/src/com/dang/string/KMP.java)
+- [x] [各种排序算法](https://github.com/DangHT/Algorithm/blob/master/src/com/dang/Sort.java)
+- [x] [二叉树遍历递归及非递归实现](https://github.com/DangHT/Algorithm/blob/master/src/com/dang/binarytree/Traversal.java)
+- [x] [字符串相关面试题](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/string)
+- [x] [栈与队列相关面试题](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/stackandqueue)
+- [x] [链表相关面试题](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/list)
+- [x] [二分搜索相关面试题](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/binarysearch)
+- [x] [LeetCode部分题解](https://github.com/DangHT/Algorithm/tree/master/src/com/dang/leetcode)
