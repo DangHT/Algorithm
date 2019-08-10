@@ -7,8 +7,8 @@ package com.dang.list;
  */
 public class ListNode<T> {
 
-    T val;
-    ListNode<T> next;
+    public T val;
+    public ListNode<T> next;
 
     /**
      * {@link Puzzle8}
