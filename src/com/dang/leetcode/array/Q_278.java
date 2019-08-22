@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.array;
 
 /**
  * 第一个错误的版本(https://leetcode-cn.com/problems/first-bad-version/)

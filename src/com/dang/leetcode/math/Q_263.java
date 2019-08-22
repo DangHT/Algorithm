@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.math;
 
 /**
  * 丑数(https://leetcode-cn.com/problems/ugly-number/)

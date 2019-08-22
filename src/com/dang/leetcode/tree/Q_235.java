@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.tree;
 
 import com.dang.binarytree.TreeNode;
 

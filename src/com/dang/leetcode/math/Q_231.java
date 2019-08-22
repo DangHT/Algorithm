@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.math;
 
 /**
  * 2的幂 (https://leetcode-cn.com/problems/power-of-two/)

@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.string;
 
 import java.util.HashMap;
 

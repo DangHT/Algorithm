@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.math;
 
 /**
  * 各位相加(https://leetcode-cn.com/problems/add-digits/)

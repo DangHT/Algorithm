@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.array;
 
 /**
  * 移动零(https://leetcode-cn.com/problems/move-zeroes/)

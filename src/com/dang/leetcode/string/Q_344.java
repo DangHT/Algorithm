@@ -1,4 +1,4 @@
-package com.dang.leetcode;
+package com.dang.leetcode.string;
 
 /**
  * 反转字符串(https://leetcode-cn.com/problems/reverse-string/)
