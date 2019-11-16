@@ -7,16 +7,16 @@ package com.dang.binarytree;
  */
 public class TreeNode {
 
-    public Integer val;
+    public int val;
     public TreeNode left;
     public TreeNode right;
     public TreeNode parent;
 
-    public TreeNode(Integer val) {
+    public TreeNode(int val) {
         this.val = val;
     }
 
-    public TreeNode(Integer val, TreeNode parent){
+    public TreeNode(int val, TreeNode parent){
         this.val = val;
         this.parent = parent;
     }
