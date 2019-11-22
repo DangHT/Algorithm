@@ -32,7 +32,7 @@ public class Q_572 {
     private boolean isSame(TreeNode a, TreeNode b) {
         if (a == null && b == null) return true;
         if (a == null || b == null) return false;
-        if (!a.val.equals(b.val)) return false;
+        if (a.val != b.val) return false;
         return isSame(a.right, b.right) && isSame(a.left, b.left);
     }
 

@@ -39,7 +39,7 @@ public class Puzzle1 {
      */
     private static boolean solution1(TreeNode t1, TreeNode t2){
         if (t1 == null || t2 == null) return false;
-        if (t1.val.equals(t2.val)){
+        if (t1.val == t2.val){
             return isSame(t1, t2);
         }
         return solution1(t1.left, t2) || solution1(t1.right, t2);
